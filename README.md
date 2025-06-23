@@ -4,7 +4,7 @@ I’m an ML and Software Engineer passionate about building real-world AI system
 
 🔭 I’m currently working on building an open-source self-correcting coding agent using LangGraph.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e37925.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
